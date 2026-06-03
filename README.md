@@ -2,6 +2,8 @@
 
 An interactive Power BI dashboard that gives furniture retailers a unified view of sales performance, inventory health, pricing strategy, and product demand — built to support data-driven retail decisions.
 
+https://github.com/aadhyadpatel47/Furniture-Business-Performance-Insights-Dashboard/blob/781a0605338671e9b4783109a2e782ec61c61125/Furniture%20Dashboard.png
+
 ---
 
 ## 🎯 Objective
